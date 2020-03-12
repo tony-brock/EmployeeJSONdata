@@ -1,0 +1,40 @@
+div.employee
+{
+border:2px solid black;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 10px 10px 5px grey;
+    padding: 10px;
+    width: 600px;
+}
+
+span.eName
+{
+    font-size: 25px;
+    font-weight: bold;
+    float: left;
+}
+ span.title
+{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px;
+}
+img
+{
+    float: left;
+    clear: left;
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+    margin-right: 10px;
+        
+}
+
+span.department, span.email
+{
+    
+    padding-left: 14px;
+    padding-top: 10px;
+    display: block;
+}
+
